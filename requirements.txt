@@ -1,6 +1,6 @@
-fastapi
-uvicorn
-sqlalchemy
-pydantic
-python-multipart
-databases
+fastapi==0.111.1
+uvicorn==0.25.0
+sqlalchemy==2.0.19
+pydantic==2.1.1
+python-multipart==0.0.6
+databases==0.7.3
